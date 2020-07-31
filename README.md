@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hi! I'm Enrique Espinoza</h1>
+<p>🙋🏻‍♂️I'm Developer, musician and writer.</p>
+<ul>
+  <li>:mortar_board: Computer Systems Engineer (Instituto Tecnologico de Ciudad Valles TecValles)</li>
+  <li>🖥️ Languages and Technologies:</li>
+      <ul>
+        <li>Java</li>
+        <li>Kotlin</li>
+        <li>Python</li>
+        <li>Golang</li>
+        <li>Android</li>
+        <li>Docker</>
+      </ul>
+  <li>👨🏻‍💻 Backend developer since version 2009</li>
+  <li>:robot: Android developer since version 2.3 (2011)</li>
+  <li>📃 <a href="https://www.credential.net/0f5794dc-2b1f-4c5a-9f78-5ad416529252">Associate Android Developer (Kotlin)</a></li>
+</ul>
