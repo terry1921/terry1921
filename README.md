@@ -39,23 +39,7 @@
 
 </br>
 
----   
-
-### :zap: GitHub Stats
-
-<center>
-  <table>
-    <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=terry1921&count_private=true&show_icons=true&theme=nord"/></td>
-      <!--<td>
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terry0022&count_private=true&layout=compact&theme=nord"/></td>
-    </tr>   
-    <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=terry0022&repo=terry0022&count_private=true&layout=compact&theme=nord"/></td> -->
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Terry0022&count_private=true&layout=compact&theme=nord"/></td>
-    </tr>
-  </table>
-</center>
+--- 
 
 [kotlin_credential]: https://www.credential.net/0f5794dc-2b1f-4c5a-9f78-5ad416529252
 [linkedin]: https://www.linkedin.com/in/enrique0022/
