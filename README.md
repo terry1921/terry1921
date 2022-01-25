@@ -52,7 +52,7 @@
     </tr>   
     <tr>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=terry0022&repo=terry0022&count_private=true&layout=compact&theme=nord"/></td> -->
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Terry1921&count_private=true&layout=compact&theme=nord"/></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Terry0022&count_private=true&layout=compact&theme=nord"/></td>
     </tr>
   </table>
 </center>
