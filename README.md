@@ -27,16 +27,23 @@
 
 </br>
 
-### Technology Stack:
+## Technology Stack:
 
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Kotlin" width="30px" src="https://avatars2.githubusercontent.com/u/1446536?s=200&v=4" />
-<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Go" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
-<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
+[![Android](https://img.shields.io/badge/Android-30D780?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-2D91F7?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-E61F24?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3EDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-F6830C?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-7BA91A?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-DE8900?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PostgresQL](https://shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+</br>
+[![Docker](https://img.shields.io/badge/Docker-2391E6?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![Golang](https://img.shields.io/badge/Golang-00A7D0?style=for-the-badge&logo=Go&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-F7CB3E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+</br>
+And more...
 </br>
 
 --- 
