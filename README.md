@@ -1,6 +1,7 @@
 ### Hi there, I'm Terry1921 👋 
 
 ![](https://badges.pufler.dev/visits/terry1921/terry1921?color=blue&style=plastic&logo=Android)
+![](https://komarev.com/ghpvc/?username=terry1921&label=Profile%20views&color=0e75b6&style=plastic)
 ![](https://badges.pufler.dev/years/terry1921?color=red&style=plastic&logo=CodeIgniter)
 ![](https://badges.pufler.dev/repos/terry1921?color=orange&style=plastic&logo=Github)
 ![](https://badges.pufler.dev/commits/weekly/terry1921?color=9cf&style=plastic&logo=counter-strike)
@@ -13,19 +14,22 @@
 - :robot: Android developer since version 2.3 (2011)
 - 📃 [Associate Android Developer (Kotlin)][kotlin_credential]
 
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/terry_rockstar?style=social) -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terry1921&theme=onedark&column=7&margin-w=15&margin-h=15" alt="terry1921" /></a> </p>
+
 <!-- ### Spotify Playing 🎧
 [![Spotify](https://novatorem-h4kl01ual.vercel.app/api/spotify)](https://open.spotify.com/user/terry1921) 
 -->
 
-
 ### Connect with me 
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />][google_play]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="terry1921" height="30" width="40" />][linkedin]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="terry1921" height="30" width="40" />][twitter]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="terry1921" height="30" width="40" />][facebook]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="terry1921" height="30" width="40" />][instagram]
 
-</br>
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />][google_play] <br>
 
 ## Technology Stack:
 
@@ -57,7 +61,7 @@ And more...
         <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=terry1921&count_private=true&show_icons=true&theme=nord"/>
       </td>
   <td>
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terry1921&count_private=true&layout=compact&theme=nord"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terry1921&count_private=true&show_icons=true&theme=nord" alt="terry1921" />
       </td>
     </tr>   
     <tr>
@@ -76,3 +80,11 @@ And more...
 [twitter]: https://twitter.com/Terry_rockstar
 [facebook]: https://www.facebook.com/terryrockstar/
 [google_play]: https://play.google.com/store/apps/dev?id=8219039451853930133
+[instagram]: https://www.instagram.com/terrymustdie/
+
+# Contributions
+(in the last 365 days, languages pie based on number of commits)
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+<br/>
