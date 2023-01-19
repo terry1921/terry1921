@@ -8,7 +8,7 @@
 
 <!-- **terry0022/terry0022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### 🙋🏻‍♂️I’m a mobile developer, father, musician and writer.
-- :mortar_board: Computer Systems Engineer (Instituto Tecnologico de Ciudad Valles TecValles)
+- :mortar_board: Computer Systems Engineer (Instituto Tecnológico de Ciudad Valles TecValles)
 - Fan of technology, music, soccer and movies
 - 👨🏻‍💻 Backend developer since version 2009
 - :robot: Android developer since version 2.3 (2011)
@@ -16,8 +16,9 @@
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/terry_rockstar?style=social) -->
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terry1921&theme=onedark&column=7&margin-w=15&margin-h=15" alt="terry1921" /></a> </p>
-
+-->
 <!-- ### Spotify Playing 🎧
 [![Spotify](https://novatorem-h4kl01ual.vercel.app/api/spotify)](https://open.spotify.com/user/terry1921) 
 -->
@@ -82,9 +83,10 @@ And more...
 [google_play]: https://play.google.com/store/apps/dev?id=8219039451853930133
 [instagram]: https://www.instagram.com/terrymustdie/
 
+<!--
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-<br/>
+<br/>-->
