@@ -19,9 +19,8 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terry1921&theme=onedark&column=7&margin-w=15&margin-h=15" alt="terry1921" /></a> </p>
 -->
-<!-- ### Spotify Playing 🎧
-[![Spotify](https://novatorem-h4kl01ual.vercel.app/api/spotify)](https://open.spotify.com/user/terry1921) 
--->
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-git-master-terry0022.vercel.app/api/spotify)](https://open.spotify.com/user/terry1921)
 
 ### Connect with me 
 
