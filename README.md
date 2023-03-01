@@ -77,7 +77,7 @@ And more...
 
 [kotlin_credential]: https://www.credential.net/0f5794dc-2b1f-4c5a-9f78-5ad416529252
 [linkedin]: https://www.linkedin.com/in/enrique0022/
-[twitter]: https://twitter.com/Terry_rockstar
+[twitter]: https://twitter.com/terry1921
 [facebook]: https://www.facebook.com/terryrockstar/
 [google_play]: https://play.google.com/store/apps/dev?id=8219039451853930133
 [instagram]: https://www.instagram.com/terrymustdie/
