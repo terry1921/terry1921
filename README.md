@@ -58,18 +58,18 @@ And more...
   <table>
     <tr>
       <td>
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=terry1921&count_private=true&show_icons=true&theme=nord"/>
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=terry1921&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/>
       </td>
   <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terry1921&count_private=true&show_icons=true&theme=nord" alt="terry1921" />
+        <img align="center" alt="terry1921" src="https://github-readme-streak-stats.herokuapp.com/?user=terry1921&count_private=true&show_icons=true&theme=nord&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
       </td>
     </tr>   
     <tr>
       <td>
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=terry1921&repo=LactaGuia&count_private=true&layout=compact&theme=nord"/>
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=terry1921&repo=LactaGuia&count_private=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/>
       </td>
       <td>
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Terry0022&count_private=true&layout=compact&theme=nord"/>
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Terry1921&count_private=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/>
       </td>
     </tr>
   </table>
